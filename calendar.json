@@ -1,6 +1,2183 @@
 {
-  "last_updated": "2024-11-20T18:02:08.255540",
+  "last_updated": "2024-11-20T18:06:03.930648",
   "events": [
+    {
+      "id": "TU1534475540",
+      "name": "Patrol Event (ScarletteJ)",
+      "start_date": "2023-02-27T20:30:00+00:00",
+      "end_date": "2023-02-27T22:30:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (ScarletteJ)",
+      "marketing": "Who: ScarletteJ\n\nWho: ScarletteJ Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "ScarletteJ",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1534510586",
+      "name": "Patrol Event (DarknessofDark)",
+      "start_date": "2023-06-01T19:00:00+01:00",
+      "end_date": "2023-06-01T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (DarknessofDark)",
+      "marketing": "Who: DarknessofDark\n\nDarknessofDark Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "DarknessofDark",
+      "exdate": [
+        "2023-09-28T19:00:00+01:00",
+        "2024-07-25T19:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1534838642",
+      "name": "Patrol Event (parkeerwacht)",
+      "start_date": "2023-06-13T19:00:00+01:00",
+      "end_date": "2023-06-13T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (parkeerwacht)",
+      "marketing": "Who: parkeerwacht\n\nHost:\n\n# parkeerwacht\n\nBi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "parkeerwacht",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1545540354",
+      "name": "Chinese Patrol Event (Black Eight 黑八)",
+      "start_date": "2023-07-07T06:30:00-07:00",
+      "end_date": "2023-07-07T08:30:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Chinese Patrol Event (Black Eight 黑八)",
+      "marketing": "Who: Black Eight 黑八\n\nBlack Eights bi-weekly patrol event  \nMajority of members participating will be Chinese, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Black Eight 黑八",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1548238979",
+      "name": "Patrol Event (Advanced Derp)",
+      "start_date": "2023-07-09T14:00:00+01:00",
+      "end_date": "2023-07-09T16:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Advanced Derp)",
+      "marketing": "Who: Advanced Derp\n\nDerps bi-weekly patrol event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Advanced Derp",
+      "exdate": [
+        "2023-12-10T14:00:00+00:00",
+        "2024-07-21T14:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1548239476",
+      "name": "Patrol Event (LoganVRC)",
+      "start_date": "2023-07-16T15:00:00+02:00",
+      "end_date": "2023-07-16T17:00:00+02:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (LoganVRC)",
+      "marketing": "Who: LoganVRC\n\nLogans bi-weekly patrol event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LoganVRC",
+      "exdate": [
+        "2023-12-03T15:00:00+01:00",
+        "2023-12-31T15:00:00+01:00",
+        "2024-06-16T15:00:00+02:00",
+        "2024-11-17T15:00:00+01:00"
+      ],
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "id": "TU1534522129",
+      "name": "Patrol Event (Squid)",
+      "start_date": "2023-07-29T13:00:00-07:00",
+      "end_date": "2023-07-29T15:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Squid)",
+      "marketing": "Who: Squid\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Squid",
+      "exdate": [
+        "2023-12-30T13:00:00-07:00"
+      ],
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1552700563",
+      "name": "Improv Workshop (Narumata)",
+      "start_date": "2023-07-30T20:00:00+01:00",
+      "end_date": "2023-07-30T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Improv Workshop (Narumata)",
+      "marketing": "Who: Narumata\n\nCome improve on your improv skills with this fun and engaging Off-duty Event were both the public members of the LPD community are invited to play along with some of our LPD members\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Narumata",
+      "exdate": [
+        "2023-08-13T20:00:00+01:00",
+        "2023-09-10T20:00:00+01:00",
+        "2023-09-24T20:00:00+01:00",
+        "2023-10-22T20:00:00+01:00",
+        "2023-11-05T20:00:00+00:00",
+        "2023-12-03T20:00:00+00:00",
+        "2023-12-31T20:00:00+00:00",
+        "2024-03-10T20:00:00+00:00",
+        "2024-03-24T20:00:00+00:00",
+        "2024-04-07T20:00:00+01:00",
+        "2024-05-05T20:00:00+01:00",
+        "2024-06-02T20:00:00+01:00",
+        "2024-06-16T20:00:00+01:00",
+        "2024-11-17T20:00:00+00:00",
+        "2024-12-01T20:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1549073586",
+      "name": "LPD Round Table (LPD Staff)",
+      "start_date": "2023-08-06T20:00:00+01:00",
+      "end_date": "2023-08-06T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Round Table (LPD Staff)",
+      "marketing": "Who: LPD Staff\n\nOpen to all LPD members to come in and ask Staff and Team leads your burning questions about the happening in the LPD and its Teams\n\n",
+      "categories": [
+        "Round Table"
+      ],
+      "host": "LPD Staff",
+      "exdate": [
+        "2023-12-03T20:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1579896343",
+      "name": "Patrol Event (GamingNoodle)",
+      "start_date": "2023-10-04T20:00:00+02:00",
+      "end_date": "2023-10-04T22:00:00+02:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (GamingNoodle)",
+      "marketing": "Who: GamingNoodle\n\nHost: GamingNoodles Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "GamingNoodle",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "id": "TU1634181379",
+      "name": "Patrol Event (-Blurple-)",
+      "start_date": "2024-02-14T21:00:00+00:00",
+      "end_date": "2024-02-14T23:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (-Blurple-)",
+      "marketing": "Who: -Blurple-\n\nWho: Blurple's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "-Blurple-",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1640485489",
+      "name": "Oceanic Patrol Event (ItsNexii)",
+      "start_date": "2024-02-20T20:00:00+11:00",
+      "end_date": "2024-02-20T22:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (ItsNexii)",
+      "marketing": "Who: ItsNexii\n\nItsNexii's bi-weekly patrol event  \nScheduled for Oceanic/Asia timezones, electric boogaloo\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "ItsNexii",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1643223127",
+      "name": "City Wide (Nihonbo and Vicktus)",
+      "start_date": "2024-03-02T20:00:00+00:00",
+      "end_date": "2024-03-02T23:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "City Wide (Nihonbo and Vicktus)",
+      "marketing": "Who: Nihonbo and Vicktus\n\nOpen world RP, where you conduct patrols and see what is going on in world of Japan Streets\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Nihonbo and Vicktus",
+      "exdate": [
+        "2024-06-01T20:00:00+01:00",
+        "2024-09-07T20:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1650950693",
+      "name": "Patrol Event (Charatanuki)",
+      "start_date": "2024-03-04T20:00:00+00:00",
+      "end_date": "2024-03-04T22:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Charatanuki)",
+      "marketing": "Who: Charatanuki\n\nCharatanuki's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Charatanuki",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1649877676",
+      "name": "Patrol Event (Flauge)",
+      "start_date": "2024-03-11T17:00:00-07:00",
+      "end_date": "2024-03-11T19:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Flauge)",
+      "marketing": "Who: Flauge\n\n Flauge's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Flauge",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1649877735",
+      "name": "Patrol Event (Darktimehollow)",
+      "start_date": "2024-03-14T17:00:00-07:00",
+      "end_date": "2024-03-14T19:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Darktimehollow)",
+      "marketing": "Who: Darktimehollow\n\nDarktimehollow's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Darktimehollow",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1649877766",
+      "name": "Patrol Event (-Infinity-)",
+      "start_date": "2024-03-16T18:00:00-07:00",
+      "end_date": "2024-03-16T20:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (-Infinity-)",
+      "marketing": "Who: -Infinity-\n\n-Infinity-'s Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "-Infinity-",
+      "exdate": [
+        "2024-07-20T18:00:00-07:00",
+        "2024-08-03T18:00:00-07:00",
+        "2024-10-26T18:00:00-07:00"
+      ],
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1646703206",
+      "name": "Patrol Event (ElegantPsyD)",
+      "start_date": "2024-03-22T19:00:00+00:00",
+      "end_date": "2024-03-22T21:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (ElegantPsyD)",
+      "marketing": "Who: ElegantPsyD\n\nElegantPsyD's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "ElegantPsyD",
+      "exdate": [
+        "2024-06-28T19:00:00+01:00",
+        "2024-07-12T19:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1658600487",
+      "name": "Korean Patrol Event (Freeman)",
+      "start_date": "2024-03-23T07:00:00-05:00",
+      "end_date": "2024-03-23T09:00:00-05:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Korean Patrol Event (Freeman)",
+      "marketing": "Who: Freeman\n\nFreemans bi-weekly patrol event  \nMajority of members participating will be Korean, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Freeman",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1650165334",
+      "name": "Patrol Event (XB-70 Valkyrie)",
+      "start_date": "2024-04-02T01:00:00+01:00",
+      "end_date": "2024-04-02T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (XB-70 Valkyrie)",
+      "marketing": "Who: XB-70 Valkyrie\n\nValkyrie's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "XB-70 Valkyrie",
+      "exdate": [
+        "2024-10-29T01:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1662551519",
+      "name": "Oceanic Patrol (Moony)",
+      "start_date": "2024-04-03T08:00:00+01:00",
+      "end_date": "2024-04-03T10:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol (Moony)",
+      "marketing": "Who: Moony\n\nMoony's Bi-Weekly Oceanic Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Moony",
+      "exdate": [
+        "2024-05-01T08:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1650165426",
+      "name": "Patrol Event (GBlackcat)",
+      "start_date": "2024-04-04T01:00:00+01:00",
+      "end_date": "2024-04-04T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (GBlackcat)",
+      "marketing": "Who: GBlackcat\n\nGBlackCat's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "GBlackcat",
+      "exdate": [
+        "2024-10-31T01:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1650165509",
+      "name": "Patrol Event (CherryCake)",
+      "start_date": "2024-04-06T01:00:00+01:00",
+      "end_date": "2024-04-06T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (CherryCake)",
+      "marketing": "Who: CherryCake\n\nA covered Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "CherryCake",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1663503277",
+      "name": "Patrol Event (亗 D A R K 亗)",
+      "start_date": "2024-04-07T02:00:00+01:00",
+      "end_date": "2024-04-07T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (亗 D A R K 亗)",
+      "marketing": "Who: 亗 D A R K 亗\n\nDARK's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "亗 D A R K 亗",
+      "exdate": [
+        "2024-11-03T02:00:00+00:00",
+        "2024-11-17T02:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1650867467",
+      "name": "Patrol Event (Taco)",
+      "start_date": "2024-04-08T02:00:00+01:00",
+      "end_date": "2024-04-08T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Taco)",
+      "marketing": "Who: Taco\n\nTaco's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Taco",
+      "exdate": [
+        "2024-06-17T02:00:00+01:00",
+        "2024-11-04T02:00:00+00:00",
+        "2024-11-18T02:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1665201099",
+      "name": "Oceanic Patrol Event (Garpo)",
+      "start_date": "2024-04-09T22:00:00+10:00",
+      "end_date": "2024-04-10T00:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (Garpo)",
+      "marketing": "Who: Garpo\n\nGarpo's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Garpo",
+      "exdate": [
+        "2024-07-16T22:00:00+10:00",
+        "2024-07-30T22:00:00+10:00"
+      ],
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1650165656",
+      "name": "Patrol Event (That_Boi_Blu)",
+      "start_date": "2024-04-10T01:00:00+01:00",
+      "end_date": "2024-04-10T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (That_Boi_Blu)",
+      "marketing": "Who: That_Boi_Blu\n\nThat_Boi_Blu's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "That_Boi_Blu",
+      "exdate": [
+        "2024-07-17T01:00:00+01:00",
+        "2024-07-31T01:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1665586437",
+      "name": "Oceanic Patrol Event (Jvniper)",
+      "start_date": "2024-04-10T11:00:00+01:00",
+      "end_date": "2024-04-10T13:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (Jvniper)",
+      "marketing": "Who: Jvniper\n\nHauntings' Bi-Weekly Patrol Event. \n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Jvniper",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1666179822",
+      "name": "Patrol Event (Kaptize)",
+      "start_date": "2024-04-10T17:00:00-07:00",
+      "end_date": "2024-04-10T19:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Kaptize)",
+      "marketing": "Who: Kaptize\n\nKaptize's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Kaptize",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1662459328",
+      "name": "Patrol Event (CoffeeeVR)",
+      "start_date": "2024-04-12T15:00:00-04:00",
+      "end_date": "2024-04-12T17:00:00-04:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (CoffeeeVR)",
+      "marketing": "Who: CoffeeeVR\n\nCoffeeeVR's Bi-Weekly Event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "CoffeeeVR",
+      "timezone": "America/New_York"
+    },
+    {
+      "id": "TU1666092062",
+      "name": "Media Team Video Jam (VR Only) (Halwrick, Sukadia)",
+      "start_date": "2024-04-12T17:00:00+01:00",
+      "end_date": "2024-04-12T19:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Halwrick, Sukadia)",
+      "marketing": "Who: Halwrick, Sukadia\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Halwrick, Sukadia",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "id": "TU1650165731",
+      "name": "Patrol Event (LowKeyKayla)",
+      "start_date": "2024-04-13T02:00:00+01:00",
+      "end_date": "2024-04-13T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (LowKeyKayla)",
+      "marketing": "Who: LowKeyKayla\n\nLowKeyKayla's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LowKeyKayla",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1665651337",
+      "name": "Korean Patrol Event (Joy)",
+      "start_date": "2024-04-13T13:00:00+01:00",
+      "end_date": "2024-04-13T15:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Korean Patrol Event (Joy)",
+      "marketing": "Who: Joy\n\n**To attend this event, you must speak a basic level of Korean.**\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Joy",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1650165853",
+      "name": "Patrol Event (BeanBoi)",
+      "start_date": "2024-04-15T02:00:00+01:00",
+      "end_date": "2024-04-15T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (BeanBoi)",
+      "marketing": "Who: BeanBoi\n\nBeanBoi's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "BeanBoi",
+      "exdate": [
+        "2024-07-22T02:00:00+01:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1651070681",
+      "name": "Patrol Event (BCBoi)",
+      "start_date": "2024-04-17T02:00:00+01:00",
+      "end_date": "2024-04-17T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (BCBoi)",
+      "marketing": "Who: BCBoi\n\nBCBoi's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "BCBoi",
+      "exdate": [
+        "2024-10-30T02:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1646959072",
+      "name": "Search Warrant (Morx & SisterLily)",
+      "start_date": "2024-04-20T20:00:00+01:00",
+      "end_date": "2024-04-20T23:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Search Warrant (Morx & SisterLily)",
+      "marketing": "Who: Morx & SisterLily\n\nThis is our in-house head to head event giving everyone the chance to create their own instigations and try out some of the LPD's heavier equipment. From little old ladies crossing the streets to full scale bank heists, get suited and booted and be ready for anything.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Morx & SisterLily",
+      "exdate": [
+        "2024-11-16T20:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1678891824",
+      "name": "Patrol Event (Zelkie)",
+      "start_date": "2024-05-07T19:00:00+01:00",
+      "end_date": "2024-05-07T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Zelkie)",
+      "marketing": "Who: Zelkie\n\nWho: Zelkie's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Zelkie",
+      "exdate": [
+        "2024-07-16T19:00:00+01:00",
+        "2024-07-30T19:00:00+01:00",
+        "2024-11-19T19:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1681325884",
+      "name": "Patrol Event (LowKeyKayla)",
+      "start_date": "2024-05-17T02:00:00+01:00",
+      "end_date": "2024-05-17T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (LowKeyKayla)",
+      "marketing": "Who: LowKeyKayla\n\nLowKeyKayla's Bi-Weekly On-Duty Patrol Event. \n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LowKeyKayla",
+      "exdate": [
+        "2024-07-26T02:00:00+01:00",
+        "2024-11-01T02:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1681091672",
+      "name": "Chinese Patrol Event (Black Eight 黑八)",
+      "start_date": "2024-05-17T13:30:00+01:00",
+      "end_date": "2024-05-17T15:30:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Chinese Patrol Event (Black Eight 黑八)",
+      "marketing": "Who: Black Eight 黑八\n\nBlack Eight's bi-weekly patrol event  \nMajority of members participating will be Chinese, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Black Eight 黑八",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1681582049",
+      "name": "Audience Anarchy (-ThatGamer-)",
+      "start_date": "2024-05-19T01:30:00+10:00",
+      "end_date": "2024-05-19T03:30:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Audience Anarchy (-ThatGamer-)",
+      "marketing": "Who: -ThatGamer-\n\nAudience Anarchy is a improv game that allows players to choose to act on a stage as actors or give out prompts for the actors to say as the audience.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "-ThatGamer-",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1681091732",
+      "name": "Chinese Patrol Event (ryan栢)",
+      "start_date": "2024-05-24T05:30:00-07:00",
+      "end_date": "2024-05-24T07:30:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Chinese Patrol Event (ryan栢)",
+      "marketing": "Who: ryan栢\n\nRyan's bi-weekly patrol event  \nMajority of members participating will be Chinese, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "ryan栢",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1681325906",
+      "name": "Patrol Event (Yukio Okumura)",
+      "start_date": "2024-05-25T02:00:00+01:00",
+      "end_date": "2024-05-25T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Yukio Okumura)",
+      "marketing": "Who: Yukio Okumura\n\nYukio Okumura's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Yukio Okumura",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1685219147",
+      "name": "Patrol Event (Morx)",
+      "start_date": "2024-05-25T12:00:00-07:00",
+      "end_date": "2024-05-25T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Morx)",
+      "marketing": "Who: Morx\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Morx",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1684843249",
+      "name": "World Hopping (Kaptize)",
+      "start_date": "2024-05-30T07:30:00+10:00",
+      "end_date": "2024-05-30T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (Kaptize)",
+      "marketing": "Who: Kaptize\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Kaptize",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1668179154",
+      "name": "LPD Party (AliceD and Saya)",
+      "start_date": "2024-06-01T21:00:00+01:00",
+      "end_date": "2024-06-02T01:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Party (AliceD and Saya)",
+      "marketing": "Who: AliceD and Saya\n\nSpring Farewell, Summer Soiree: Let's Groove at the LPD Party! Hosted by AliceD and Saya\n\n",
+      "categories": [
+        "Special Events"
+      ],
+      "host": "AliceD and Saya",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "id": "TU1691821684",
+      "name": "Media Team Video Jam (VR Only) (Sukadia, Naru)",
+      "start_date": "2024-06-07T17:00:00+01:00",
+      "end_date": "2024-06-07T19:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Sukadia, Naru)",
+      "marketing": "Who: Sukadia, Naru\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Sukadia, Naru",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "id": "TU1675849406",
+      "name": "Guest Host Patrol Event (Narumata And Morx)",
+      "start_date": "2024-06-08T20:00:00+01:00",
+      "end_date": "2024-06-08T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Guest Host Patrol Event (Narumata And Morx)",
+      "marketing": "Who: Narumata And Morx\n\nSpooky Mystery Guest host flying in to deal with this week's event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Narumata And Morx",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1692844528",
+      "name": "Audience Anarchy (ThatGamer)",
+      "start_date": "2024-06-16T01:30:00+10:00",
+      "end_date": "2024-06-16T03:30:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Audience Anarchy (ThatGamer)",
+      "marketing": "Who: ThatGamer\n\nAudience Anarchy is a improv game that allows players to choose to act on a stage as actors or give out prompts for the actors to say as the audience (Microphone is required for acting) (VR isn't needed but is recommended)\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ThatGamer",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1694290871",
+      "name": "LPD Founding Day Tour (EU/OC) (Nightwisp & Parkeerwacht)",
+      "start_date": "2024-06-16T08:00:00-04:00",
+      "end_date": "2024-06-16T11:00:00-04:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Founding Day Tour (EU/OC) (Nightwisp & Parkeerwacht)",
+      "marketing": "Who: Nightwisp & Parkeerwacht\n\nTake a stroll through time as Nightwisp and Parkeerwacht guide you through the beginning days of LPD, also known as \"Sarma Days.\" Come enjoy a tour, and maybe see some familiar faces from the past! **EU/OC PATROL EVENT IS SET TO HAPPEN DIRECTLY AFTER.**\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Nightwisp & Parkeerwacht",
+      "timezone": "America/New_York"
+    },
+    {
+      "id": "TU1693930953",
+      "name": "LPD Founding Day Tour (NA) (Nightwisp & LowKeyKayla)",
+      "start_date": "2024-06-16T17:30:00-04:00",
+      "end_date": "2024-06-16T20:30:00-04:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Founding Day Tour (NA) (Nightwisp & LowKeyKayla)",
+      "marketing": "Who: Nightwisp & LowKeyKayla\n\nTake a stroll through time as Nightwisp and Kayla guide you through the beginning days of LPD, also known as \"Sarma Days.\" Come enjoy a tour, and maybe see some familiar faces from the past! **NA PATROL EVENT IS SET TO HAPPEN DIRECTLY AFTER.**\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Nightwisp & LowKeyKayla",
+      "timezone": "America/New_York"
+    },
+    {
+      "id": "TU1691983269",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-06-21T07:30:00+10:00",
+      "end_date": "2024-06-21T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For LPD MEMBERS, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For NON LPD MEMBERS, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.  \n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1701394046",
+      "name": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "start_date": "2024-06-21T17:00:00+01:00",
+      "end_date": "2024-06-21T19:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "marketing": "Who: Narumata, Sukadia\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Narumata, Sukadia",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "id": "TU1673625804",
+      "name": "Most Wanted (Letof & Kyrowo)",
+      "start_date": "2024-06-22T12:00:00-07:00",
+      "end_date": "2024-06-22T15:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Most Wanted (Letof & Kyrowo)",
+      "marketing": "Who: Letof & Kyrowo\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Letof & Kyrowo",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1698771012",
+      "name": "Oceanic Patrol (HorchataDuck)",
+      "start_date": "2024-06-26T08:00:00+01:00",
+      "end_date": "2024-06-26T10:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol (HorchataDuck)",
+      "marketing": "Who: HorchataDuck\n\nMoony's Bi-Weekly Oceanic Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "HorchataDuck",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1704386043",
+      "name": "Patrol Event (ElegantPsyD)",
+      "start_date": "2024-06-28T20:00:00+01:00",
+      "end_date": "2024-06-28T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (ElegantPsyD)",
+      "marketing": "Who: ElegantPsyD\n\nElegantPsyD's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "ElegantPsyD",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1662461645",
+      "name": "Patrol Event (Morx)",
+      "start_date": "2024-06-29T12:00:00-07:00",
+      "end_date": "2024-06-29T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Morx)",
+      "marketing": "Who: Morx\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Morx",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1703366502",
+      "name": "Super VR Ball (snuggly_kitty)",
+      "start_date": "2024-06-30T02:00:00+10:00",
+      "end_date": "2024-06-30T04:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Super VR Ball (snuggly_kitty)",
+      "marketing": "Who: snuggly_kitty\n\nSuper VR Ball is a game where you balance on top of a giant ball across obstacle courses, you can race all your friends, or you could go for the watermelon slices you see on the path in order to earn points, however there is a time limit for each obstacle course to be completed!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "snuggly_kitty",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1702529662",
+      "name": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "start_date": "2024-07-05T17:00:00+01:00",
+      "end_date": "2024-07-05T19:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "marketing": "Who: Narumata, Sukadia\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Narumata, Sukadia",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "id": "TU1707518287",
+      "name": "Korean Patrol Event (Joy)",
+      "start_date": "2024-07-07T08:00:00+01:00",
+      "end_date": "2024-07-07T10:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Korean Patrol Event (Joy)",
+      "marketing": "Who: Joy\n\n**To attend this event, you must speak a basic level of Korean.**\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Joy",
+      "exdate": [
+        "2024-10-27T08:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1706644417",
+      "name": "Prison Escape (ABOHiccups)",
+      "start_date": "2024-07-07T14:00:00+10:00",
+      "end_date": "2024-07-07T16:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Prison Escape (ABOHiccups)",
+      "marketing": "Who: ABOHiccups\n\nCivilians and Instigators will be the Prisoners. LPD Members will be the Guards. If you're an LPD Member and you don't have Instigator Role. Don't worry about it. You can be a prisoner as you like. Just make sure to change out of LPD Avatar without confusing other players. \n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ABOHiccups",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1703978899",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-07-08T08:30:00+10:00",
+      "end_date": "2024-07-08T10:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1711060700",
+      "name": "Patrol Event (ElegantPsyD)",
+      "start_date": "2024-07-12T20:00:00+01:00",
+      "end_date": "2024-07-12T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (ElegantPsyD)",
+      "marketing": "Who: ElegantPsyD\n\nElegantPsyD's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "ElegantPsyD",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1662459985",
+      "name": "Patrol Event (Morx)",
+      "start_date": "2024-07-13T12:00:00-07:00",
+      "end_date": "2024-07-13T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Morx)",
+      "marketing": "Who: Morx\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Morx",
+      "exdate": [
+        "2024-08-10T12:00:00-07:00"
+      ],
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1709994286",
+      "name": "Audience Anarchy (-ThatGamer-)",
+      "start_date": "2024-07-13T23:00:00+10:00",
+      "end_date": "2024-07-14T01:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Audience Anarchy (-ThatGamer-)",
+      "marketing": "Who: -ThatGamer-\n\nAudience Anarchy is a improv game that allows players to choose to act on a stage as actors or give out prompts for the actors to say as the audience (Microphone is required for acting) (VR isn't needed but is recommended)\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "-ThatGamer-",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1707518311",
+      "name": "Korean Patrol Event (Freeman)",
+      "start_date": "2024-07-14T02:00:00-05:00",
+      "end_date": "2024-07-14T04:00:00-05:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Korean Patrol Event (Freeman)",
+      "marketing": "Who: Freeman\n\nFreemans bi-weekly patrol event  \nMajority of members participating will be Korean, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Freeman",
+      "exdate": [
+        "2024-10-20T02:00:00-05:00"
+      ],
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1713642400",
+      "name": "Patrol Event (Zelkie)",
+      "start_date": "2024-07-16T19:00:00+01:00",
+      "end_date": "2024-07-16T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Zelkie)",
+      "marketing": "Who: Zelkie\n\nWho: Zelkie's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Zelkie",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713642770",
+      "name": "Oceanic Patrol Event (Garpo)",
+      "start_date": "2024-07-16T22:00:00+10:00",
+      "end_date": "2024-07-17T00:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (Garpo)",
+      "marketing": "Who: Garpo\n\nGarpo's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Garpo",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1713642376",
+      "name": "Patrol Event (That_Boi_Blu)",
+      "start_date": "2024-07-17T01:00:00+01:00",
+      "end_date": "2024-07-17T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (That_Boi_Blu)",
+      "marketing": "Who: That_Boi_Blu\n\nThat_Boi_Blu's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "That_Boi_Blu",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713055701",
+      "name": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "start_date": "2024-07-17T12:00:00-05:00",
+      "end_date": "2024-07-17T14:00:00-05:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "marketing": "Who: Narumata, Sukadia\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Narumata, Sukadia",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1712239053",
+      "name": "World Hopping (ALX 45)",
+      "start_date": "2024-07-19T07:30:00+10:00",
+      "end_date": "2024-07-19T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX 45)",
+      "marketing": "Who: ALX 45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For LPD MEMBERS, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For NON LPD MEMBERS, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX 45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1713642359",
+      "name": "Patrol Event (-Infinity-)",
+      "start_date": "2024-07-20T18:00:00-07:00",
+      "end_date": "2024-07-20T20:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (-Infinity-)",
+      "marketing": "Who: -Infinity-\n\n-Infinity-'s Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "-Infinity-",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1713642895",
+      "name": "Patrol Event (VKet) (Advanced Derp)",
+      "start_date": "2024-07-21T14:00:00+01:00",
+      "end_date": "2024-07-21T16:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (VKet) (Advanced Derp)",
+      "marketing": "Who: Advanced Derp\n\nDerps bi-weekly patrol event\n\n",
+      "categories": [
+        "On Duty Events",
+        "Collab Patrols"
+      ],
+      "host": "Advanced Derp",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713642933",
+      "name": "Patrol Event (VKet) (BeanBoi)",
+      "start_date": "2024-07-22T02:00:00+01:00",
+      "end_date": "2024-07-22T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (VKet) (BeanBoi)",
+      "marketing": "Who: BeanBoi\n\nBeanBoi's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events"
+      ],
+      "host": "BeanBoi",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713642950",
+      "name": "Patrol Event (VKet) (DarknessofDark)",
+      "start_date": "2024-07-25T19:00:00+01:00",
+      "end_date": "2024-07-25T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (VKet) (DarknessofDark)",
+      "marketing": "Who: DarknessofDark\n\nDarknessofDark Weekly Patrol Event\n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events"
+      ],
+      "host": "DarknessofDark",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713642967",
+      "name": "Patrol Event (VKet) (LowKeyKayla)",
+      "start_date": "2024-07-26T02:00:00+01:00",
+      "end_date": "2024-07-26T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (VKet) (LowKeyKayla)",
+      "marketing": "Who: LowKeyKayla\n\nLowKeyKayla's Bi-Weekly On-Duty Patrol Event. \n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events"
+      ],
+      "host": "LowKeyKayla",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1645376978",
+      "name": "LDOJ: Open Court (Devin64156, LowKeyKayla)",
+      "start_date": "2024-07-27T12:00:00-07:00",
+      "end_date": "2024-07-27T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LDOJ: Open Court (Devin64156, LowKeyKayla)",
+      "marketing": "Who: Devin64156, LowKeyKayla\n\nLDOJ's Bi-Monthly Event.\n\n",
+      "categories": [
+        "Special Events"
+      ],
+      "host": "Devin64156, LowKeyKayla",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1713643016",
+      "name": "Patrol Event (VKet) (Zelkie)",
+      "start_date": "2024-07-30T19:00:00+01:00",
+      "end_date": "2024-07-30T21:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (VKet) (Zelkie)",
+      "marketing": "Who: Zelkie\n\nWho: Zelkie's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events"
+      ],
+      "host": "Zelkie",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713642999",
+      "name": "Oceanic Patrol Event (VKet) (Garpo)",
+      "start_date": "2024-07-30T22:00:00+10:00",
+      "end_date": "2024-07-31T00:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (VKet) (Garpo)",
+      "marketing": "Who: Garpo\n\nGarpo's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Garpo",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1713643035",
+      "name": "Patrol Event (VKet) (That_Boi_Blu)",
+      "start_date": "2024-07-31T01:00:00+01:00",
+      "end_date": "2024-07-31T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (VKet) (That_Boi_Blu)",
+      "marketing": "Who: That_Boi_Blu\n\nThat_Boi_Blu's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events"
+      ],
+      "host": "That_Boi_Blu",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1713055721",
+      "name": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "start_date": "2024-07-31T12:00:00-05:00",
+      "end_date": "2024-07-31T14:00:00-05:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "marketing": "Who: Narumata, Sukadia\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Narumata, Sukadia",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1719123588",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-08-02T07:30:00+10:00",
+      "end_date": "2024-08-02T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1713642112",
+      "name": "Vket Patrol Event (VKet) (-Infinity-)",
+      "start_date": "2024-08-03T18:00:00-07:00",
+      "end_date": "2024-08-03T20:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Vket Patrol Event (VKet) (-Infinity-)",
+      "marketing": "Who: -Infinity-\n\n-Infinity-'s Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "Collab Patrols",
+        "On Duty Events"
+      ],
+      "host": "-Infinity-",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1700821879",
+      "name": "LPD Party (AliceD, Saya)",
+      "start_date": "2024-08-10T21:00:00+01:00",
+      "end_date": "2024-08-11T01:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Party (AliceD, Saya)",
+      "marketing": "Who: AliceD, Saya\n\nA Party with live DJs, come join!\n\n",
+      "categories": [
+        "Special Events"
+      ],
+      "host": "AliceD, Saya",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "id": "TU1725114181",
+      "name": "Oceanic Patrol Event (Trueysmir)",
+      "start_date": "2024-08-13T22:00:00+10:00",
+      "end_date": "2024-08-14T00:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (Trueysmir)",
+      "marketing": "Who: Trueysmir\n\nTrueysmir's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Trueysmir",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1724384674",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-08-16T07:30:00+10:00",
+      "end_date": "2024-08-16T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For LPD MEMBERS, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For NON LPD MEMBERS, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.  \n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1725747496",
+      "name": "Audience Anarchy (-ThatGamer-)",
+      "start_date": "2024-08-18T00:00:00+10:00",
+      "end_date": "2024-08-18T02:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Audience Anarchy (-ThatGamer-)",
+      "marketing": "Who: -ThatGamer-\n\nAudience Anarchy is a improv game that allows players to choose to act on a stage as actors or give out prompts for the actors to say as the audience (Microphone is required for acting) (VR isn't needed but is recommended)\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "-ThatGamer-",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1662460034",
+      "name": "Patrol Event (Morx)",
+      "start_date": "2024-08-24T12:00:00-07:00",
+      "end_date": "2024-08-24T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Morx)",
+      "marketing": "Who: Morx\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Morx",
+      "exdate": [
+        "2024-09-28T12:00:00-07:00",
+        "2024-10-26T12:00:00-07:00"
+      ],
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1732813972",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-08-30T07:30:00+10:00",
+      "end_date": "2024-08-30T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1736187572",
+      "name": "Patrol Event (SorB)",
+      "start_date": "2024-09-07T01:00:00+01:00",
+      "end_date": "2024-09-07T03:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (SorB)",
+      "marketing": "Who: SorB\n\nA SorB's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "SorB",
+      "exdate": [
+        "2024-11-02T01:00:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1732385916",
+      "name": "Patrol Event (Morx)",
+      "start_date": "2024-09-07T20:00:00+01:00",
+      "end_date": "2024-09-07T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Morx)",
+      "marketing": "Who: Morx\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Morx",
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "TU1740411243",
+      "name": "Patrol Event (ScarletteJ)",
+      "start_date": "2024-09-09T18:30:00+01:00",
+      "end_date": "2024-09-09T20:30:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (ScarletteJ)",
+      "marketing": "Who: ScarletteJ\n\nWho: ScarletteJ Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "ScarletteJ",
+      "exdate": [
+        "2024-11-18T18:30:00+00:00"
+      ],
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1733370409",
+      "name": "Oceanic Patrol Event (Jvniper)",
+      "start_date": "2024-09-11T10:00:00+01:00",
+      "end_date": "2024-09-11T12:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol Event (Jvniper)",
+      "marketing": "Who: Jvniper\n\nHauntings' Bi-Weekly Patrol Event. \n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Jvniper",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1737586811",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-09-13T07:30:00+10:00",
+      "end_date": "2024-09-13T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1740112287",
+      "name": "Patrol Event (Koyaemi)",
+      "start_date": "2024-09-14T02:00:00+01:00",
+      "end_date": "2024-09-14T04:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Koyaemi)",
+      "marketing": "Who: Koyaemi\n\nKoyaemi's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Koyaemi",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1744668222",
+      "name": "King of the Castle (DaEpicZach)",
+      "start_date": "2024-09-19T22:00:00+10:00",
+      "end_date": "2024-09-20T00:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "King of the Castle (DaEpicZach)",
+      "marketing": "Who: DaEpicZach\n\nKing of the Castle is a game where a monarch, played by the game host (aka me), tries to establish rule amongst the kingdom while the nobles, who are played by the other players, try to overthrow the crown with their own faction.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "DaEpicZach",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1744058892",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-09-27T07:30:00+10:00",
+      "end_date": "2024-09-27T09:00:00+10:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1645377123",
+      "name": "LDOJ: Open Court (Devin64156, LowKeyKayla)",
+      "start_date": "2024-09-28T12:00:00-07:00",
+      "end_date": "2024-09-28T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LDOJ: Open Court (Devin64156, LowKeyKayla)",
+      "marketing": "Who: Devin64156, LowKeyKayla\n\nLDOJ's Bi-Monthly Event.\n\n",
+      "categories": [
+        "Special Events"
+      ],
+      "host": "Devin64156, LowKeyKayla",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1753496532",
+      "name": "Patrol Event (-Blurple-)",
+      "start_date": "2024-10-09T20:00:00+01:00",
+      "end_date": "2024-10-09T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (-Blurple-)",
+      "marketing": "Who: -Blurple-\n\nWho: Blurple's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "-Blurple-",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1756101714",
+      "name": "Murder 4 (NekoNyanoko)",
+      "start_date": "2024-10-11T12:00:00-04:00",
+      "end_date": "2024-10-11T14:00:00-04:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Murder 4 (NekoNyanoko)",
+      "marketing": "Who: NekoNyanoko\n\nIts a game world where there is one murderer, one detective and bystanders.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "NekoNyanoko",
+      "timezone": "America/New_York"
+    },
+    {
+      "id": "TU1755295412",
+      "name": "World Hopping (ALX 45)",
+      "start_date": "2024-10-13T03:00:00+11:00",
+      "end_date": "2024-10-13T04:30:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX 45)",
+      "marketing": "Who: ALX 45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX 45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1751222934",
+      "name": "Audience Anarchy (ThatGamer)",
+      "start_date": "2024-10-14T03:30:00+11:00",
+      "end_date": "2024-10-14T05:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Audience Anarchy (ThatGamer)",
+      "marketing": "Who: ThatGamer\n\nAudience Anarchy is a improv game that allows players to choose to act on a stage as actors or give out prompts for the actors to say as the audience (Microphone is required for acting) (VR isn't needed but is recommended)\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ThatGamer",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1758281321",
+      "name": "Korean Patrol Event (Freeman)",
+      "start_date": "2024-10-19T02:00:00-05:00",
+      "end_date": "2024-10-19T04:00:00-05:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Korean Patrol Event (Freeman)",
+      "marketing": "Who: Freeman\n\nFreemans bi-weekly patrol event  \nMajority of members participating will be Korean, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Freeman",
+      "exdate": [
+        "2024-11-16T02:00:00-06:00"
+      ],
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1759537670",
+      "name": "Parkour Watch Party (Zelkie and AlX45)",
+      "start_date": "2024-10-19T12:00:00-04:00",
+      "end_date": "2024-10-19T14:00:00-04:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Parkour Watch Party (Zelkie and AlX45)",
+      "marketing": "Who: Zelkie and AlX45\n\nThis is the said \"movie\" https://www.youtube.com/watch?v=2pFwQiwRbcg\", we will provide someone that will screenshare for those who don't have access to vrchat,\n\nRules:  \nAll Avatars must be below 60 megabytes to get rid of the chance of lag as much as possible. And not have any laggy particles, or funky noises that can be toggled by accident to uphold immersiveness.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Zelkie and AlX45",
+      "timezone": "America/New_York"
+    },
+    {
+      "id": "TU1765880079",
+      "name": "Murder 4 (NekoNyanoko)",
+      "start_date": "2024-10-26T03:00:00+11:00",
+      "end_date": "2024-10-26T05:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Murder 4 (NekoNyanoko)",
+      "marketing": "Who: NekoNyanoko\n\n its a game world where there is one murder and one detective and the rest are bystanders\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "NekoNyanoko",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1760308479",
+      "name": "Korean Patrol Event (Freeman)",
+      "start_date": "2024-10-26T09:00:00+01:00",
+      "end_date": "2024-10-26T11:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Korean Patrol Event (Freeman)",
+      "marketing": "Who: Freeman\n\n**To attend this event, you must speak a basic level of Korean.**\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Freeman",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1740405314",
+      "name": "Most Wanted (Letof & Kyrowo)",
+      "start_date": "2024-10-26T12:00:00-07:00",
+      "end_date": "2024-10-26T15:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Most Wanted (Letof & Kyrowo)",
+      "marketing": "Who: Letof & Kyrowo\n\nWe've had the call in from Senior staff and we may have something going on soon. Join in on our high-intensity instigations-based event where we follow the story and attempt to track down some of our Most Wanted.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Letof & Kyrowo",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1763450267",
+      "name": "LPD Basement Party (Costume contest edition) (Charatanuki & TJmaxmillion)",
+      "start_date": "2024-10-26T18:00:00-05:00",
+      "end_date": "2024-10-26T22:00:00-05:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Basement Party (Costume contest edition) (Charatanuki & TJmaxmillion)",
+      "marketing": "Who: Charatanuki & TJmaxmillion\n\nReturn of the LPD basement Party under new management!\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Charatanuki & TJmaxmillion",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1760299090",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-10-28T04:00:00+11:00",
+      "end_date": "2024-10-28T05:30:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1767208535",
+      "name": "Halloween Games! (moonlight)",
+      "start_date": "2024-10-28T16:30:00+11:00",
+      "end_date": "2024-10-28T18:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Halloween Games! (moonlight)",
+      "marketing": "Who: moonlight\n\nWill be going through different Halloween game worlds, 45 mins per world!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "moonlight",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1767417661",
+      "name": "Patrol Event (Charatanuki)",
+      "start_date": "2024-10-28T20:00:00+00:00",
+      "end_date": "2024-10-28T22:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Charatanuki)",
+      "marketing": "Who: Charatanuki\n\nCharatanuki's Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Charatanuki",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767412492",
+      "name": "Patrol Event (XB-70 Valkyrie)",
+      "start_date": "2024-10-29T00:00:00+00:00",
+      "end_date": "2024-10-29T02:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (XB-70 Valkyrie)",
+      "marketing": "Who: XB-70 Valkyrie\n\nValkyrie's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "XB-70 Valkyrie",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767417771",
+      "name": "Patrol Event (parkeerwacht)",
+      "start_date": "2024-10-29T19:00:00+00:00",
+      "end_date": "2024-10-29T21:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (parkeerwacht)",
+      "marketing": "Who: parkeerwacht\n\nHost:\n\n# parkeerwacht\n\nBi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "parkeerwacht",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767412511",
+      "name": "Patrol Event (BCBoi)",
+      "start_date": "2024-10-30T01:00:00+00:00",
+      "end_date": "2024-10-30T03:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (BCBoi)",
+      "marketing": "Who: BCBoi\n\nBCBoi's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "BCBoi",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767619323",
+      "name": "Oceanic Patrol (HorchataDuck)",
+      "start_date": "2024-10-30T07:00:00+00:00",
+      "end_date": "2024-10-30T09:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol (HorchataDuck)",
+      "marketing": "Who: HorchataDuck\n\nMoony's Bi-Weekly Oceanic Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "HorchataDuck",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767417798",
+      "name": "Patrol Event (GamingNoodle)",
+      "start_date": "2024-10-30T20:00:00+01:00",
+      "end_date": "2024-10-30T22:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (GamingNoodle)",
+      "marketing": "Who: GamingNoodle\n\nHost: GamingNoodles Bi-Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "GamingNoodle",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "id": "TU1767412528",
+      "name": "Patrol Event (GBlackcat)",
+      "start_date": "2024-10-31T00:00:00+00:00",
+      "end_date": "2024-10-31T02:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (GBlackcat)",
+      "marketing": "Who: GBlackcat\n\nGBlackCat's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "GBlackcat",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767417819",
+      "name": "Patrol Event (DarknessofDark)",
+      "start_date": "2024-10-31T19:00:00+00:00",
+      "end_date": "2024-10-31T21:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (DarknessofDark)",
+      "marketing": "Who: DarknessofDark\n\nDarknessofDark Weekly Patrol Event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "DarknessofDark",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767412537",
+      "name": "Patrol Event (LowKeyKayla)",
+      "start_date": "2024-11-01T01:00:00+00:00",
+      "end_date": "2024-11-01T03:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (LowKeyKayla)",
+      "marketing": "Who: LowKeyKayla\n\nLowKeyKayla's Bi-Weekly On-Duty Patrol Event. \n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LowKeyKayla",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767417853",
+      "name": "Patrol Event (ElegantPsyD)",
+      "start_date": "2024-11-01T19:00:00+00:00",
+      "end_date": "2024-11-01T21:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (ElegantPsyD)",
+      "marketing": "Who: ElegantPsyD\n\nElegantPsyD's Bi-Weekly Patrol Event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "ElegantPsyD",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767412549",
+      "name": "Patrol Event (SorB)",
+      "start_date": "2024-11-02T00:00:00+00:00",
+      "end_date": "2024-11-02T02:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (SorB)",
+      "marketing": "Who: SorB\n\nA SorB's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "SorB",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1766962329",
+      "name": "John's Laugh Lounge (Dr. John)",
+      "start_date": "2024-11-02T08:30:00+11:00",
+      "end_date": "2024-11-02T10:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "John's Laugh Lounge (Dr. John)",
+      "marketing": "Who: Dr. John\n\nCome one, come all! It’s that time again for you to come and tell all the jokes you want to or can’t tell to anyone else. Then I have an event for you John Laugh Lounge where jokes can be anything from stand up to dad jokes the sky's the limit. Do think you have the joke that will be the next gut buster, find out. Just make sure you don’t laugh too hard.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Dr. John",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1767412576",
+      "name": "Patrol Event (亗 D A R K 亗)",
+      "start_date": "2024-11-03T01:00:00+00:00",
+      "end_date": "2024-11-03T03:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (亗 D A R K 亗)",
+      "marketing": "Who: 亗 D A R K 亗\n\nDARK's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "亗 D A R K 亗",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1769969671",
+      "name": "Zelkies and ALX's parkour watch party (Zelkie & ALX45)",
+      "start_date": "2024-11-03T04:00:00+11:00",
+      "end_date": "2024-11-03T06:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Zelkies and ALX's parkour watch party (Zelkie & ALX45)",
+      "marketing": "Who: Zelkie & ALX45\n\nIts a watch party where we watch a funny movie in VRChat, we will provide someone that will screenshare for those who don't have access to vrchat, Rules: All Avatars must be below 60 megabytes to get rid of the chance of lag as much as possible. And not have any laggy particles, or funky noises that can be toggled by accident to uphold immersiveness.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Zelkie & ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1771256165",
+      "name": "Patrol Event (Jvniper cover)",
+      "start_date": "2024-11-04T02:00:00+00:00",
+      "end_date": "2024-11-04T04:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Jvniper cover)",
+      "marketing": "Who: Jvniper cover\n\nTaco's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Jvniper cover",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767426203",
+      "name": "Patrol Event (Flauge)",
+      "start_date": "2024-11-04T18:00:00-07:00",
+      "end_date": "2024-11-04T20:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Flauge)",
+      "marketing": "Who: Flauge\n\n Flauge's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Flauge",
+      "exdate": [
+        "2024-11-18T18:00:00-07:00"
+      ],
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1767426238",
+      "name": "Patrol Event (Kaptize)",
+      "start_date": "2024-11-06T18:00:00-07:00",
+      "end_date": "2024-11-06T20:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Kaptize)",
+      "marketing": "Who: Kaptize\n\nKaptize's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Kaptize",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1767426265",
+      "name": "Patrol Event (Darktimehollow)",
+      "start_date": "2024-11-07T18:00:00-07:00",
+      "end_date": "2024-11-07T20:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Darktimehollow)",
+      "marketing": "Who: Darktimehollow\n\nDarktimehollow's Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Darktimehollow",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1773147557",
+      "name": "Guest Event (Narumata & Morx)",
+      "start_date": "2024-11-09T12:00:00-07:00",
+      "end_date": "2024-11-09T14:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Guest Event (Narumata & Morx)",
+      "marketing": "Who: Narumata & Morx\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Narumata & Morx",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1767426917",
+      "name": "Patrol Event (-Infinity-)",
+      "start_date": "2024-11-09T19:00:00-07:00",
+      "end_date": "2024-11-09T21:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (-Infinity-)",
+      "marketing": "Who: -Infinity-\n\n-Infinity-'s Bi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "-Infinity-",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1773149459",
+      "name": "LPD Anniversary Photo (Media Team)",
+      "start_date": "2024-11-09T21:30:00+00:00",
+      "end_date": "2024-11-09T22:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Anniversary Photo (Media Team)",
+      "marketing": "Who: Media Team\n\n",
+      "categories": [
+        "Special Events"
+      ],
+      "host": "Media Team",
+      "timezone": "Europe/London"
+    },
+    {
+      "id": "TU1773603814",
+      "name": "World Hopping (ALX45)",
+      "start_date": "2024-11-11T06:00:00+11:00",
+      "end_date": "2024-11-11T08:00:00+11:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "World Hopping (ALX45)",
+      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "ALX45",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "id": "TU1776436657",
+      "name": "Oceanic Patrol (HorchataDuck)",
+      "start_date": "2024-11-13T08:00:00+00:00",
+      "end_date": "2024-11-13T10:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Oceanic Patrol (HorchataDuck)",
+      "marketing": "Who: HorchataDuck\n\nMoony's Bi-Weekly Oceanic Event.\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "HorchataDuck",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767880739",
+      "name": "Chinese Patrol Event (Black Eight 黑八)",
+      "start_date": "2024-11-15T12:30:00+00:00",
+      "end_date": "2024-11-15T14:30:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Chinese Patrol Event (Black Eight 黑八)",
+      "marketing": "Who: Black Eight 黑八\n\nBlack Eight's bi-weekly patrol event  \nMajority of members participating will be Chinese, no restrictions on attending\n\n",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Black Eight 黑八",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1767380800",
+      "name": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "start_date": "2024-11-15T16:00:00-06:00",
+      "end_date": "2024-11-15T18:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Media Team Video Jam (VR Only) (Narumata, Sukadia)",
+      "marketing": "Who: Narumata, Sukadia\n\nAn official Media Team event to create Shorts for our Youtube! Led by Media Team videographers, everyone will be split into equal groups and have a chance to pitch their skit ideas and act in them!\n\n",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Narumata, Sukadia",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1774751322",
+      "name": "24-hour patrol (LPD Events team)",
+      "start_date": "2024-11-15T23:00:00-06:00",
+      "end_date": "2024-11-16T12:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "24-hour patrol (LPD Events team)",
+      "marketing": "Who: LPD Events team\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "LPD Events team",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1775569522",
+      "name": "24-hour patrol (LPD Events team)",
+      "start_date": "2024-11-16T12:00:00-06:00",
+      "end_date": "2024-11-16T23:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "24-hour patrol (LPD Events team)",
+      "marketing": "Who: LPD Events team\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "LPD Events team",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1777512155",
+      "name": "Patrol Event (LoganVRC)",
+      "start_date": "2024-11-17T12:00:00+01:00",
+      "end_date": "2024-11-17T14:00:00+01:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (LoganVRC)",
+      "marketing": "Who: LoganVRC\n\nLogans bi-weekly patrol event\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LoganVRC",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "id": "TU1774751446",
+      "name": "Mystery Anniversary event (Karet & CoffeeVR)",
+      "start_date": "2024-11-17T13:00:00-06:00",
+      "end_date": "2024-11-17T15:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Mystery Anniversary event (Karet & CoffeeVR)",
+      "marketing": "Who: Karet & CoffeeVR\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Karet & CoffeeVR",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1774751722",
+      "name": "LPD Tour (Kayla & Nightwisp)",
+      "start_date": "2024-11-17T18:15:00-06:00",
+      "end_date": "2024-11-17T19:45:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "LPD Tour (Kayla & Nightwisp)",
+      "marketing": "Who: Kayla & Nightwisp\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "Kayla & Nightwisp",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1774752360",
+      "name": "Patrol Event (Zelkie)",
+      "start_date": "2024-11-18T03:00:00+00:00",
+      "end_date": "2024-11-18T05:00:00+00:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Zelkie)",
+      "marketing": "Who: Zelkie\n\nBi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Zelkie",
+      "timezone": "Europe/Dublin"
+    },
+    {
+      "id": "TU1774755055",
+      "name": "Patrol Event (Zelkie)",
+      "start_date": "2024-11-18T09:00:00-06:00",
+      "end_date": "2024-11-18T11:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Zelkie)",
+      "marketing": "Who: Zelkie\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Zelkie",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1774752495",
+      "name": "SLRT Throwback training (SLRT trainers)",
+      "start_date": "2024-11-18T13:00:00-06:00",
+      "end_date": "2024-11-18T15:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "SLRT Throwback training (SLRT trainers)",
+      "marketing": "Who: SLRT trainers\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "SLRT trainers",
+      "timezone": "America/Chicago"
+    },
+    {
+      "id": "TU1774752569",
+      "name": "Patrol Event (Darktimehollow)",
+      "start_date": "2024-11-18T15:00:00-07:00",
+      "end_date": "2024-11-18T17:00:00-07:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "Patrol Event (Darktimehollow)",
+      "marketing": "Who: Darktimehollow\n\nBi-Weekly On-Duty-Patrol event.\n\n",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Darktimehollow",
+      "timezone": "America/Phoenix"
+    },
+    {
+      "id": "TU1774752556",
+      "name": "SLRT Throwback training (SLRT trainers)",
+      "start_date": "2024-11-18T19:00:00-06:00",
+      "end_date": "2024-11-18T21:00:00-06:00",
+      "dtstamp": "2024-11-18T15:53:38+00:00",
+      "summary": "SLRT Throwback training (SLRT trainers)",
+      "marketing": "Who: SLRT trainers\n\n",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "SLRT trainers",
+      "timezone": "America/Chicago"
+    },
     {
       "id": "TU1774752596",
       "name": "LMT Throwback training (LMT trainers)",
