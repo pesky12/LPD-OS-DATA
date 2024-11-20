@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-11-20T20:41:03.951573",
+  "last_updated": "2024-11-20T20:42:59.885610+00:00",
   "events": [
     {
       "id": "TU1650165656-2024-11-20T01:00:00+01:00",
@@ -297,8 +297,7 @@
       "name": "Korean Patrol Event (Freeman)",
       "start_date": "2024-11-23T02:00:00-06:00",
       "end_date": "2024-11-23T04:00:00-06:00",
-      "summary": "Korean Patrol Event (Freeman)",
-      "marketing": "Who: Freeman\n\nFreemans bi-weekly patrol event  \nMajority of members participating will be Korean, no restrictions on attending\n\n",
+      "summary": "Who: Freeman\n\nFreemans bi-weekly patrol event  \nMajority of members participating will be Korean, no restrictions on attending\n\n",
       "categories": [
         "On Duty Events",
         "Regional Events"
@@ -417,8 +416,7 @@
       "name": "World Hopping (ALX45)",
       "start_date": "2024-11-25T06:00:00+11:00",
       "end_date": "2024-11-25T07:30:00+11:00",
-      "summary": "World Hopping (ALX45)",
-      "marketing": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
+      "summary": "Who: ALX45\n\nA world hopping event where we do about 15 minutes in between world to explore and have fun. This allows us to do two things! For *LPD MEMBERS*, this allows us to find new worlds to patrol instead of the old basic great pug, kmart, etc. For *NON LPD MEMBERS*, this allows them to become more interactive within the LPD, find cool worlds, and see the LPD community outside of the \"find you, arrest you\" mentality.\n\n",
       "categories": [
         "Off Duty Events"
       ],
@@ -1374,8 +1372,7 @@
       "name": "LPD: The Final's Tournament (Fukaziroh & Jeffthenotkiller)",
       "start_date": "2024-12-08T14:00:00-05:00",
       "end_date": "2024-12-08T16:00:00-05:00",
-      "summary": "LPD: The Final's Tournament (Fukaziroh & Jeffthenotkiller)",
-      "marketing": "Who: Fukaziroh & Jeffthenotkiller\n\nThe Finals is a FPS game with several modes, and this tournament will be comprised of a bracket with the number of matches determined by the amount of people who sign up. Each member of the winning team of the tournament will be awarded a 25 euro steam gift card from Fuka. Anyone Interested in participating should sign up via this form: https://forms.gle/mJ76nyM4ziAPExuAA\n\n",
+      "summary": "Who: Fukaziroh & Jeffthenotkiller\n\nThe Finals is a FPS game with several modes, and this tournament will be comprised of a bracket with the number of matches determined by the amount of people who sign up. Each member of the winning team of the tournament will be awarded a 25 euro steam gift card from Fuka. Anyone Interested in participating should sign up via this form: https://forms.gle/mJ76nyM4ziAPExuAA\n\n",
       "categories": [
         "Off Duty Events"
       ],
@@ -1774,8 +1771,7 @@
       "name": "LDOJ: Open Court (Devin64156, LowKeyKayla)",
       "start_date": "2024-12-14T13:00:00-07:00",
       "end_date": "2024-12-14T15:00:00-07:00",
-      "summary": "LDOJ: Open Court (Devin64156, LowKeyKayla)",
-      "marketing": "Who: Devin64156, LowKeyKayla\n\nLDOJ's Bi-Monthly Event.\n\n",
+      "summary": "Who: Devin64156, LowKeyKayla\n\nLDOJ's Bi-Monthly Event.\n\n",
       "categories": [
         "Special Events"
       ],
