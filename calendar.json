@@ -1,74 +1,6 @@
 {
   "events": [
     {
-      "name": "Chinese Patrol Event",
-      "start_date": "2024-11-22T05:30:00-07:00",
-      "end_date": "2024-11-22T07:30:00-07:00",
-      "summary": "<p>Ryan's bi-weekly patrol event<br>Majority of members participating will be Chinese, no restrictions on attending</p>\n<p><strong> </strong></p>",
-      "categories": [
-        12227686,
-        12227692
-      ],
-      "host": "ryan栢",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-11-22T13:00:00-07:00",
-      "end_date": "2024-11-22T15:00:00-07:00",
-      "summary": "<p>CoffeeeVR's Bi-Weekly Event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "CoffeeeVR",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-11-22T19:00:00-07:00",
-      "end_date": "2024-11-22T21:00:00-07:00",
-      "summary": "<p>Koyaemi's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "Koyaemi",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Korean Patrol Event",
-      "start_date": "2024-11-23T01:00:00-07:00",
-      "end_date": "2024-11-23T03:00:00-07:00",
-      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
-      "categories": [
-        12227686,
-        12227692
-      ],
-      "host": "Freeman",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-11-23T13:00:00-07:00",
-      "end_date": "2024-11-23T15:00:00-07:00",
-      "summary": "",
-      "categories": [
-        12227686
-      ],
-      "host": "Morx",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-11-23T19:00:00-07:00",
-      "end_date": "2024-11-23T21:00:00-07:00",
-      "summary": "<p>-Infinity-'s Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "-Infinity-",
-      "timezone": "Europe/Lisbon"
-    },
-    {
       "name": "Patrol Event",
       "start_date": "2024-11-24T07:00:00-07:00",
       "end_date": "2024-11-24T09:00:00-07:00",
@@ -469,6 +401,74 @@
         12227686
       ],
       "host": "Koyaemi",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Korean Patrol Event",
+      "start_date": "2024-12-07T01:00:00-07:00",
+      "end_date": "2024-12-07T03:00:00-07:00",
+      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
+      "categories": [
+        12227686,
+        12227692
+      ],
+      "host": "Freeman",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "City Wide",
+      "start_date": "2024-12-07T13:00:00-07:00",
+      "end_date": "2024-12-07T16:00:00-07:00",
+      "summary": "<p>Open world RP, where you conduct patrols and see what is going on in world of Japan Streets</p>",
+      "categories": [
+        12227686,
+        12227694
+      ],
+      "host": "Nihonbo and Vicktus",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-07T19:00:00-07:00",
+      "end_date": "2024-12-07T21:00:00-07:00",
+      "summary": "<p>-Infinity-'s Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "-Infinity-",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-08T07:00:00-07:00",
+      "end_date": "2024-12-08T09:00:00-07:00",
+      "summary": "<p>Derps bi-weekly patrol event</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Advanced Derp",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "LPD: The Final's Tournament",
+      "start_date": "2024-12-08T12:00:00-07:00",
+      "end_date": "2024-12-08T14:00:00-07:00",
+      "summary": "<p>The Finals is a FPS game with several modes, and this tournament will be comprised of a bracket with the number of matches determined by the amount of people who sign up. Each member of the winning team of the tournament will be awarded a 25 euro steam gift card from Fuka. Anyone Interested in participating should sign up via this form: https://forms.gle/mJ76nyM4ziAPExuAA</p>",
+      "categories": [
+        12227691
+      ],
+      "host": "Fukaziroh & Jeffthenotkiller",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-08T19:00:00-07:00",
+      "end_date": "2024-12-08T21:00:00-07:00",
+      "summary": "<p>BeanBoi's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "BeanBoi",
       "timezone": "Europe/Lisbon"
     }
   ]
