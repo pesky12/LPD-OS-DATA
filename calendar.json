@@ -2,212 +2,6 @@
   "events": [
     {
       "name": "Patrol Event",
-      "start_date": "2024-12-15T06:00:00-07:00",
-      "end_date": "2024-12-15T08:00:00-07:00",
-      "summary": "<p>Logans bi-weekly patrol event</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "LoganVRC",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-15T19:00:00-07:00",
-      "end_date": "2024-12-15T21:00:00-07:00",
-      "summary": "<p>Taco's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "Taco",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-16T11:30:00-07:00",
-      "end_date": "2024-12-16T13:30:00-07:00",
-      "summary": "<p>Who: ScarletteJ Bi-Weekly Patrol Event<br><br></p>",
-      "categories": [
-        12227686
-      ],
-      "host": "ScarletteJ",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-16T18:00:00-07:00",
-      "end_date": "2024-12-16T20:00:00-07:00",
-      "summary": "<p> Flauge's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "Flauge",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Oceanic Patrol Event",
-      "start_date": "2024-12-17T04:00:00-07:00",
-      "end_date": "2024-12-17T06:00:00-07:00",
-      "summary": "<p>Trueysmir's Bi-Weekly Patrol Event.</p>",
-      "categories": [
-        12227686,
-        12227692
-      ],
-      "host": "Trueysmir",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-17T12:00:00-07:00",
-      "end_date": "2024-12-17T14:00:00-07:00",
-      "summary": "<p>Who: Zelkie's Bi-Weekly Patrol Event</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "Zelkie",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-17T18:00:00-07:00",
-      "end_date": "2024-12-17T20:00:00-07:00",
-      "summary": "<p>That_Boi_Blu's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "That_Boi_Blu",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Oceanic Patrol Event",
-      "start_date": "2024-12-18T03:00:00-07:00",
-      "end_date": "2024-12-18T05:00:00-07:00",
-      "summary": "<p>Hauntings' Bi-Weekly Patrol Event. </p>",
-      "categories": [
-        12227686,
-        12227692
-      ],
-      "host": "Jvniper",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-18T13:00:00-07:00",
-      "end_date": "2024-12-18T15:00:00-07:00",
-      "summary": "<p>Who: Blurple's Bi-Weekly Patrol Event</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "-Blurple-",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-18T18:00:00-07:00",
-      "end_date": "2024-12-18T20:00:00-07:00",
-      "summary": "<p>Kaptize's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "Kaptize",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event (VKet Patrol)",
-      "start_date": "2024-12-19T12:00:00-07:00",
-      "end_date": "2024-12-19T14:00:00-07:00",
-      "summary": "<p>DarknessofDark Weekly Patrol Event</p>",
-      "categories": [
-        12227686,
-        12227694
-      ],
-      "host": "DarknessofDark",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event (Vket Patrol)",
-      "start_date": "2024-12-19T18:00:00-07:00",
-      "end_date": "2024-12-19T20:00:00-07:00",
-      "summary": "<p>Darktimehollow's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686,
-        12227694
-      ],
-      "host": "Darktimehollow",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Chinese City Wide",
-      "start_date": "2024-12-20T05:30:00-07:00",
-      "end_date": "2024-12-20T07:30:00-07:00",
-      "summary": "<p>Open world RP, where you conduct patrols and see what is going on in world of Japan Streets. Majority of members participating will be Chinese, no restrictions on attending</p>\n<p><strong> </strong></p>",
-      "categories": [
-        12227686,
-        12227692,
-        12227694
-      ],
-      "host": "ryan栢 & BlackEight黑八",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-20T13:00:00-07:00",
-      "end_date": "2024-12-20T15:00:00-07:00",
-      "summary": "<p>CoffeeeVR's Bi-Weekly Event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "CoffeeeVR",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-20T19:00:00-07:00",
-      "end_date": "2024-12-20T21:00:00-07:00",
-      "summary": "<p>Koyaemi's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "Koyaemi",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Korean Patrol Event",
-      "start_date": "2024-12-21T01:00:00-07:00",
-      "end_date": "2024-12-21T03:00:00-07:00",
-      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
-      "categories": [
-        12227686,
-        12227692
-      ],
-      "host": "Freeman",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Search Warrant",
-      "start_date": "2024-12-21T13:00:00-07:00",
-      "end_date": "2024-12-21T16:00:00-07:00",
-      "summary": "<p>This is our in-house head to head event giving everyone the chance to create their own instigations and try out some of the LPD's heavier equipment. From little old ladies crossing the streets to full scale bank heists, get suited and booted and be ready for anything. <em></em></p>",
-      "categories": [
-        12227686,
-        12227694
-      ],
-      "host": "Morx & SisterLily",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-21T19:00:00-07:00",
-      "end_date": "2024-12-21T21:00:00-07:00",
-      "summary": "<p>-Infinity-'s Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        12227686
-      ],
-      "host": "-Infinity-",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
       "start_date": "2024-12-22T07:00:00-07:00",
       "end_date": "2024-12-22T09:00:00-07:00",
       "summary": "<p>Derps bi-weekly patrol event</p>",
@@ -367,11 +161,11 @@
       "name": "Patrol Event",
       "start_date": "2024-12-27T12:00:00-07:00",
       "end_date": "2024-12-27T14:00:00-07:00",
-      "summary": "<p>ElegantPsyD's Bi-Weekly Patrol Event.</p>",
+      "summary": "<p>\"PlaceHolder\" Bi-Weekly Patrol Event.</p>",
       "categories": [
         12227686
       ],
-      "host": "ElegantPsyD",
+      "host": "covered",
       "timezone": "Europe/Lisbon"
     },
     {
@@ -450,6 +244,220 @@
         12227686
       ],
       "host": "Taco",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-30T11:30:00-07:00",
+      "end_date": "2024-12-30T13:30:00-07:00",
+      "summary": "<p>Who: ScarletteJ Bi-Weekly Patrol Event<br><br></p>",
+      "categories": [
+        12227686
+      ],
+      "host": "ScarletteJ",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-30T18:00:00-07:00",
+      "end_date": "2024-12-30T20:00:00-07:00",
+      "summary": "<p> Flauge's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Flauge",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Oceanic Patrol Event",
+      "start_date": "2024-12-31T04:00:00-07:00",
+      "end_date": "2024-12-31T06:00:00-07:00",
+      "summary": "<p>Trueysmir's Bi-Weekly Patrol Event.</p>",
+      "categories": [
+        12227686,
+        12227692
+      ],
+      "host": "Trueysmir",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-31T12:00:00-07:00",
+      "end_date": "2024-12-31T14:00:00-07:00",
+      "summary": "<p>Who: Zelkie's Bi-Weekly Patrol Event</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Zelkie",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2024-12-31T18:00:00-07:00",
+      "end_date": "2024-12-31T20:00:00-07:00",
+      "summary": "<p>That_Boi_Blu's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "That_Boi_Blu",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Oceanic Patrol Event",
+      "start_date": "2025-01-01T03:00:00-07:00",
+      "end_date": "2025-01-01T05:00:00-07:00",
+      "summary": "<p>Hauntings' Bi-Weekly Patrol Event. </p>",
+      "categories": [
+        12227686,
+        12227692
+      ],
+      "host": "Jvniper",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-01T13:00:00-07:00",
+      "end_date": "2025-01-01T15:00:00-07:00",
+      "summary": "<p>Who: ElegantPsyD Bi-Weekly Patrol Event</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "ElegantPsyD",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-01T18:00:00-07:00",
+      "end_date": "2025-01-01T20:00:00-07:00",
+      "summary": "<p>Kaptize's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Kaptize",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-02T12:00:00-07:00",
+      "end_date": "2025-01-02T14:00:00-07:00",
+      "summary": "<p>DarknessofDark Weekly Patrol Event</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "DarknessofDark",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-02T18:00:00-07:00",
+      "end_date": "2025-01-02T20:00:00-07:00",
+      "summary": "<p>Darktimehollow's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Darktimehollow",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Chinese Patrol Event",
+      "start_date": "2025-01-03T05:30:00-07:00",
+      "end_date": "2025-01-03T07:30:00-07:00",
+      "summary": "<p>Ryan's bi-weekly patrol event<br>Majority of members participating will be Chinese, no restrictions on attending</p>\n<p><strong> </strong></p>",
+      "categories": [
+        12227686,
+        12227692
+      ],
+      "host": "ryan栢",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-03T13:00:00-07:00",
+      "end_date": "2025-01-03T15:00:00-07:00",
+      "summary": "<p>CoffeeeVR's Bi-Weekly Event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "CoffeeeVR",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-03T19:00:00-07:00",
+      "end_date": "2025-01-03T21:00:00-07:00",
+      "summary": "<p>Koyaemi's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Koyaemi",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Korean Patrol Event",
+      "start_date": "2025-01-04T01:00:00-07:00",
+      "end_date": "2025-01-04T03:00:00-07:00",
+      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
+      "categories": [
+        12227686,
+        12227692
+      ],
+      "host": "Freeman",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "City Wide",
+      "start_date": "2025-01-04T13:00:00-07:00",
+      "end_date": "2025-01-04T16:00:00-07:00",
+      "summary": "<p>Open world RP, where you conduct patrols and see what is going on in world of Japan Streets</p>",
+      "categories": [
+        12227686,
+        12227694
+      ],
+      "host": "Nihonbo and Vicktus",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-04T19:00:00-07:00",
+      "end_date": "2025-01-04T21:00:00-07:00",
+      "summary": "<p>-Infinity-'s Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "-Infinity-",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-05T07:00:00-07:00",
+      "end_date": "2025-01-05T09:00:00-07:00",
+      "summary": "<p>Derps bi-weekly patrol event</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "Advanced Derp",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "LPD Round Table",
+      "start_date": "2025-01-05T13:00:00-07:00",
+      "end_date": "2025-01-05T14:00:00-07:00",
+      "summary": "<p>Open to all LPD members to come in and ask Staff and Team leads your burning questions about the happening in the LPD and its Teams</p>",
+      "categories": [
+        12227693
+      ],
+      "host": "LPD Staff",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-05T19:00:00-07:00",
+      "end_date": "2025-01-05T21:00:00-07:00",
+      "summary": "<p>BeanBoi's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        12227686
+      ],
+      "host": "BeanBoi",
       "timezone": "Europe/Lisbon"
     }
   ]
