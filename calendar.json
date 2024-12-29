@@ -1,40 +1,6 @@
 {
   "events": [
     {
-      "name": "Korean Patrol Event",
-      "start_date": "2024-12-28T01:00:00-07:00",
-      "end_date": "2024-12-28T03:00:00-07:00",
-      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "Freeman",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "LPD Basement party",
-      "start_date": "2024-12-28T14:00:00-07:00",
-      "end_date": "2024-12-28T18:00:00-07:00",
-      "summary": "<p>Join us for the End of year LPD basement party, feel free to bring a friend!</p>",
-      "categories": [
-        "Special Events"
-      ],
-      "host": "Charatanuki & Tjmaxmillion",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2024-12-28T19:00:00-07:00",
-      "end_date": "2024-12-28T21:00:00-07:00",
-      "summary": "<p>DARK's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "亗 D A R K 亗",
-      "timezone": "Europe/Lisbon"
-    },
-    {
       "name": "Patrol Event",
       "start_date": "2024-12-29T06:00:00-07:00",
       "end_date": "2024-12-29T08:00:00-07:00",
@@ -437,6 +403,28 @@
         "On Duty Events"
       ],
       "host": "亗 D A R K 亗",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-12T06:00:00-07:00",
+      "end_date": "2025-01-12T08:00:00-07:00",
+      "summary": "<p>Logans bi-weekly patrol event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LoganVRC",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-01-12T19:00:00-07:00",
+      "end_date": "2025-01-12T21:00:00-07:00",
+      "summary": "<p>Taco's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Taco",
       "timezone": "Europe/Lisbon"
     }
   ]
