@@ -1,218 +1,14 @@
 {
   "events": [
     {
-      "name": "Patrol Event",
-      "start_date": "2025-11-02T07:00:00-07:00",
-      "end_date": "2025-11-02T09:00:00-07:00",
-      "summary": "<p>Logans bi-weekly patrol event</p>",
+      "name": "Game Night",
+      "start_date": "2025-11-08T22:00:00-07:00",
+      "end_date": "2025-11-09T00:00:00-07:00",
+      "summary": "",
       "categories": [
-        "On Duty Events"
+        "Off Duty Events"
       ],
-      "host": "LoganVRC",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "LPD Round Table",
-      "start_date": "2025-11-02T13:00:00-07:00",
-      "end_date": "2025-11-02T14:00:00-07:00",
-      "summary": "<p>Open to all LPD members to come in and ask Staff and Team leads your burning questions about the happening in the LPD and its Teams</p>",
-      "categories": [
-        "Round Table"
-      ],
-      "host": "LPD Staff",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-02T18:00:00-07:00",
-      "end_date": "2025-11-02T20:00:00-07:00",
-      "summary": "<p>Kaptize's Bi-Weekly On-Duty-Patrol event. </p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Kaptize",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-03T12:00:00-07:00",
-      "end_date": "2025-11-03T14:00:00-07:00",
-      "summary": "<p>Who: Pajdapo's Bi-Weekly Patrol Event<br><br></p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Pajdapo",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-03T19:00:00-07:00",
-      "end_date": "2025-11-03T21:00:00-07:00",
-      "summary": "<p>HorchataDuck's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "HorchataDuck",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Oceanic Patrol Event",
-      "start_date": "2025-11-04T04:00:00-07:00",
-      "end_date": "2025-11-04T06:00:00-07:00",
-      "summary": "<p>A Covered Bi-Weekly Patrol Event.</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "Blurple",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-04T12:00:00-07:00",
-      "end_date": "2025-11-04T14:00:00-07:00",
-      "summary": "<p>Myuu's Bi-Weekly Patrol Event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Myuu",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-04T18:00:00-07:00",
-      "end_date": "2025-11-04T20:00:00-07:00",
-      "summary": "<p>That_Boi_Blu's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "That_Boi_Blu",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Oceanic Patrol Event",
-      "start_date": "2025-11-05T03:00:00-07:00",
-      "end_date": "2025-11-05T05:00:00-07:00",
-      "summary": "<p>ItsNexii's bi-weekly patrol event<br>Scheduled for Oceanic/Asia timezones, electric boogaloo</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "ItsNexii",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-05T13:00:00-07:00",
-      "end_date": "2025-11-05T15:00:00-07:00",
-      "summary": "<p>lavaglijder's Bi-Weekly Patrol Event</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "lavaglijder",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-05T19:00:00-07:00",
-      "end_date": "2025-11-05T21:00:00-07:00",
-      "summary": "<p>NicoleJK's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "NicoleJK",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-06T12:00:00-07:00",
-      "end_date": "2025-11-06T14:00:00-07:00",
-      "summary": "<p>Hakka Narukami Weekly Patrol Event</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Hakka Narukami",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-06T18:00:00-07:00",
-      "end_date": "2025-11-06T20:00:00-07:00",
-      "summary": "<p>Darktimehollow's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Darktimehollow",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "CN City Wide",
-      "start_date": "2025-11-07T05:30:00-07:00",
-      "end_date": "2025-11-07T08:00:00-07:00",
-      "summary": "<p>Open world RP, where you conduct patrols and see what is going on in world of Japan Streets</p>\n<p><strong> </strong></p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events",
-        "Special Events"
-      ],
-      "host": "Black Eight 黑八",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-07T13:00:00-07:00",
-      "end_date": "2025-11-07T15:00:00-07:00",
-      "summary": "<p>CoffeeeVR's Bi-Weekly Event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "CoffeeeVR",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-07T19:00:00-07:00",
-      "end_date": "2025-11-07T21:00:00-07:00",
-      "summary": "<p>Koyaemi's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Koyaemi",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Korean Patrol Event",
-      "start_date": "2025-11-08T06:00:00-07:00",
-      "end_date": "2025-11-08T08:00:00-07:00",
-      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "Freeman",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "LDOJ: Open Court",
-      "start_date": "2025-11-08T13:00:00-07:00",
-      "end_date": "2025-11-08T16:00:00-07:00",
-      "summary": "<p>Open Court: The legal side of roleplay within the LPD! This is a event hosted by the Local Department of Justice bimonthly. We showcase 3 cases prepared by our LDOJ members, but with a twist. Members of the crowd are picked by the Judge to serve as either side of prosecution or defense. The crowd is also who determines your faith- are you guilty or not guilty? Come and find out! </p>",
-      "categories": [
-        "On Duty Events",
-        "Special Events"
-      ],
-      "host": "LowKeyKayla & Kaptize",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2025-11-08T19:00:00-07:00",
-      "end_date": "2025-11-08T21:00:00-07:00",
-      "summary": "<p>-Infinity-'s Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "-Infinity-",
+      "host": "Cappy",
       "timezone": "Europe/Lisbon"
     },
     {
@@ -419,6 +215,17 @@
       "timezone": "Europe/Lisbon"
     },
     {
+      "name": "Game Night",
+      "start_date": "2025-11-15T22:00:00-07:00",
+      "end_date": "2025-11-16T00:00:00-07:00",
+      "summary": "",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Cappy",
+      "timezone": "Europe/Lisbon"
+    },
+    {
       "name": "Patrol Event",
       "start_date": "2025-11-16T07:00:00-07:00",
       "end_date": "2025-11-16T09:00:00-07:00",
@@ -438,6 +245,210 @@
         "On Duty Events"
       ],
       "host": "Kaptize",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-17T12:00:00-07:00",
+      "end_date": "2025-11-17T14:00:00-07:00",
+      "summary": "<p>Who: Pajdapo's Bi-Weekly Patrol Event<br><br></p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Pajdapo",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-17T19:00:00-07:00",
+      "end_date": "2025-11-17T21:00:00-07:00",
+      "summary": "<p>HorchataDuck's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "HorchataDuck",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Oceanic Patrol Event",
+      "start_date": "2025-11-18T04:00:00-07:00",
+      "end_date": "2025-11-18T06:00:00-07:00",
+      "summary": "<p>A Covered Bi-Weekly Patrol Event.</p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Blurple",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-18T12:00:00-07:00",
+      "end_date": "2025-11-18T14:00:00-07:00",
+      "summary": "<p>Myuu's Bi-Weekly Patrol Event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Myuu",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-18T18:00:00-07:00",
+      "end_date": "2025-11-18T20:00:00-07:00",
+      "summary": "<p>That_Boi_Blu's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "That_Boi_Blu",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Oceanic Patrol Event",
+      "start_date": "2025-11-19T03:00:00-07:00",
+      "end_date": "2025-11-19T05:00:00-07:00",
+      "summary": "<p>ItsNexii's bi-weekly patrol event<br>Scheduled for Oceanic/Asia timezones, electric boogaloo</p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "ItsNexii",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-19T13:00:00-07:00",
+      "end_date": "2025-11-19T15:00:00-07:00",
+      "summary": "<p>lavaglijder's Bi-Weekly Patrol Event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "lavaglijder",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-19T19:00:00-07:00",
+      "end_date": "2025-11-19T21:00:00-07:00",
+      "summary": "<p>NicoleJK's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "NicoleJK",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-20T12:00:00-07:00",
+      "end_date": "2025-11-20T14:00:00-07:00",
+      "summary": "<p>Hakka Narukami Weekly Patrol Event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Hakka Narukami",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-20T18:00:00-07:00",
+      "end_date": "2025-11-20T20:00:00-07:00",
+      "summary": "<p>Darktimehollow's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Darktimehollow",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Chinese Patrol Event",
+      "start_date": "2025-11-21T05:30:00-07:00",
+      "end_date": "2025-11-21T07:30:00-07:00",
+      "summary": "<p>Ryan's bi-weekly patrol event<br>Majority of members participating will be Chinese, no restrictions on attending</p>\n<p><strong> </strong></p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "ryan栢",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-21T13:00:00-07:00",
+      "end_date": "2025-11-21T15:00:00-07:00",
+      "summary": "<p>CoffeeeVR's Bi-Weekly Event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "CoffeeeVR",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-21T19:00:00-07:00",
+      "end_date": "2025-11-21T21:00:00-07:00",
+      "summary": "<p>Koyaemi's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Koyaemi",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "24-Hour Patrol Event",
+      "start_date": "2025-11-22T05:00:00-07:00",
+      "end_date": "2025-11-22T09:00:00-07:00",
+      "summary": "<p>To celebrate the 6th anniversary of the LPD </p>",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "LPD EVENTS TEAM",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "24-Hour Patrol Event",
+      "start_date": "2025-11-22T09:00:00-07:00",
+      "end_date": "2025-11-22T17:00:00-07:00",
+      "summary": "<p>To celebrate the 6th anniversary of the LPD </p>",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "LPD EVENTS TEAM",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "24-Hour Patrol Event",
+      "start_date": "2025-11-22T17:00:00-07:00",
+      "end_date": "2025-11-23T05:00:00-07:00",
+      "summary": "<p>To celebrate the 6th anniversary of the LPD </p>",
+      "categories": [
+        "On Duty Events",
+        "Special Events"
+      ],
+      "host": "LPD EVENTS TEAM",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-23T06:00:00-07:00",
+      "end_date": "2025-11-23T08:00:00-07:00",
+      "summary": "<p>Ϳeff's bi-weekly patrol event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Ϳeff",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2025-11-23T19:00:00-07:00",
+      "end_date": "2025-11-23T21:00:00-07:00",
+      "summary": "<p>BeanBoi's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "BeanBoi",
       "timezone": "Europe/Lisbon"
     }
   ]
