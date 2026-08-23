@@ -2,188 +2,6 @@
   "events": [
     {
       "name": "Patrol Event",
-      "start_date": "2026-08-16T06:00:00-07:00",
-      "end_date": "2026-08-16T08:00:00-07:00",
-      "summary": "<p>Ϳeff's bi-weekly patrol event</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Ϳeff",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "POI~POCALYPSE",
-      "start_date": "2026-08-16T15:00:00-07:00",
-      "end_date": "2026-08-16T17:00:00-07:00",
-      "summary": "<p>The Hoppous of Ashen Choir have taken the soul of Commissioner Gibson; we need you to set out into VRChat to find and lock up every Hoppou you can find so we can retake his soul before he disappears forever! We are expecting a large influx of Hoppous this afternoon, so stay on your toes, and don't get your soul taken too!</p>",
-      "categories": [
-        "Collab Patrols",
-        "On Duty Events"
-      ],
-      "host": "Honor, That_Boi_Blu",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-17T12:00:00-07:00",
-      "end_date": "2026-08-17T14:00:00-07:00",
-      "summary": "<p>Charatanuki's Bi-Weekly Patrol Event</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Charatanuki",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-17T18:00:00-07:00",
-      "end_date": "2026-08-17T20:00:00-07:00",
-      "summary": "<p>Honor's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Honor",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Oceanic Patrol Event",
-      "start_date": "2026-08-18T05:30:00-07:00",
-      "end_date": "2026-08-18T07:30:00-07:00",
-      "summary": "<p>AsuhaDes Bi-Weekly Patrol Event.</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "AsuhaDes",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Oceanic Patrol",
-      "start_date": "2026-08-19T00:00:00-07:00",
-      "end_date": "2026-08-19T02:00:00-07:00",
-      "summary": "<p>KateGam3z's Bi-Weekly Oceanic Event.</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "KateGam3z",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-19T09:30:00-07:00",
-      "end_date": "2026-08-19T11:30:00-07:00",
-      "summary": "<p>Host: lavaglijder Bi-Weekly Patrol Event</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "lavaglijder",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-19T17:00:00-07:00",
-      "end_date": "2026-08-19T19:00:00-07:00",
-      "summary": "<p>GBlackCat's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "GBlackcat",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-20T11:00:00-07:00",
-      "end_date": "2026-08-20T13:00:00-07:00",
-      "summary": "<p>\"parkeerwacht\" Bi-Weekly Patrol Event</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "parkeerwacht",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-20T17:00:00-07:00",
-      "end_date": "2026-08-20T19:00:00-07:00",
-      "summary": "<p>Sinny's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "Sinny",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Chinese Patrol Event",
-      "start_date": "2026-08-21T05:30:00-07:00",
-      "end_date": "2026-08-21T07:30:00-07:00",
-      "summary": "<p>Black Eight's bi-weekly patrol event<br>Majority of members participating will be Chinese, no restrictions on attending</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "Black Eight 黑八",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-21T12:00:00-07:00",
-      "end_date": "2026-08-21T14:00:00-07:00",
-      "summary": "<p><strong>EmberPhoenixVT's  Bi-Weekly Patrol Event.</strong></p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "EmberPhoenixVT",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
-      "start_date": "2026-08-21T17:00:00-07:00",
-      "end_date": "2026-08-21T19:00:00-07:00",
-      "summary": "<p>A SorB's Bi-Weekly On-Duty-Patrol event.</p>",
-      "categories": [
-        "On Duty Events"
-      ],
-      "host": "SorB",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Korean Patrol Event",
-      "start_date": "2026-08-22T05:00:00-07:00",
-      "end_date": "2026-08-22T07:00:00-07:00",
-      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
-      "categories": [
-        "On Duty Events",
-        "Regional Events"
-      ],
-      "host": "Freeman",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "LDOJ",
-      "start_date": "2026-08-22T12:00:00-07:00",
-      "end_date": "2026-08-22T14:00:00-07:00",
-      "summary": "<p>Open Court: The legal side of roleplay within the LPD! This is a event hosted by the Local Department of Justice bimonthly. We showcase 3 cases prepared by our LDOJ members, but with a twist. Members of the crowd are picked by the Judge to serve as either side of prosecution or defense. The crowd is also who determines your faith- are you guilty or not guilty? Come and find out!</p>",
-      "categories": [
-        "On Duty Events",
-        "Special Events"
-      ],
-      "host": "Kaptize & StarsStellar",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Game Night",
-      "start_date": "2026-08-22T18:00:00-07:00",
-      "end_date": "2026-08-22T20:00:00-07:00",
-      "summary": "<p>Welcome to the LPD Game Nightǃ Every two weeks‚ we will be playing two games featured in VRChatǃ This event is a great opportunity to hangout with the LPD community‚ whether you are a current member or someone who is looking for a group of people to hangout withǃ We hope to see you all thereǃ</p>",
-      "categories": [
-        "Off Duty Events"
-      ],
-      "host": "Cappy",
-      "timezone": "Europe/Lisbon"
-    },
-    {
-      "name": "Patrol Event",
       "start_date": "2026-08-23T06:00:00-07:00",
       "end_date": "2026-08-23T08:00:00-07:00",
       "summary": "<p>Logans bi-weekly patrol event</p>",
@@ -329,15 +147,14 @@
       "timezone": "Europe/Lisbon"
     },
     {
-      "name": "Search Warrant",
+      "name": "Officers VS Civilians",
       "start_date": "2026-08-29T12:00:00-07:00",
-      "end_date": "2026-08-29T15:00:00-07:00",
-      "summary": "<p>This is our in-house head to head event giving everyone the chance to create their own instigations and try out some of the LPD's heavier equipment. From little old ladies crossing the streets to full scale bank heists, get suited and booted and be ready for anything.</p>",
+      "end_date": "2026-08-29T14:00:00-07:00",
+      "summary": "<p><strong>In this event theme, officers will go in squads to game worlds which are normally not patrolable. The intent of this event is to have the officers as a team go up against civilians. LPD vs. the world so to say, the plan is to have fun and have enjoyable interactions with the public, its encourage to stay in character while doing this. Also it's encouraged to get media such as pictures while interacting with the public. Keep score of how many times you beat the civilians, LPD on top and all ya know, but be honest if you lost you lost.</strong></p>",
       "categories": [
-        "On Duty Events",
         "Special Events"
       ],
-      "host": "Aneth & CoffeeVR",
+      "host": "CoffeeeVR",
       "timezone": "Europe/Lisbon"
     },
     {
@@ -360,6 +177,197 @@
         "On Duty Events"
       ],
       "host": "Ϳeff",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-08-31T12:00:00-07:00",
+      "end_date": "2026-08-31T14:00:00-07:00",
+      "summary": "<p>Charatanuki's Bi-Weekly Patrol Event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Charatanuki",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-08-31T18:00:00-07:00",
+      "end_date": "2026-08-31T20:00:00-07:00",
+      "summary": "<p>Honor's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Honor",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Oceanic Patrol Event",
+      "start_date": "2026-09-01T05:30:00-07:00",
+      "end_date": "2026-09-01T07:30:00-07:00",
+      "summary": "<p>AsuhaDes Bi-Weekly Patrol Event.</p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "AsuhaDes",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Oceanic Patrol",
+      "start_date": "2026-09-02T00:00:00-07:00",
+      "end_date": "2026-09-02T02:00:00-07:00",
+      "summary": "<p>KateGam3z's Bi-Weekly Oceanic Event.</p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "KateGam3z",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-02T09:30:00-07:00",
+      "end_date": "2026-09-02T11:30:00-07:00",
+      "summary": "<p>Host: lavaglijder Bi-Weekly Patrol Event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "lavaglijder",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-02T17:00:00-07:00",
+      "end_date": "2026-09-02T19:00:00-07:00",
+      "summary": "<p>GBlackCat's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "GBlackcat",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-03T11:00:00-07:00",
+      "end_date": "2026-09-03T13:00:00-07:00",
+      "summary": "<p>\"parkeerwacht\" Bi-Weekly Patrol Event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "parkeerwacht",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-03T17:00:00-07:00",
+      "end_date": "2026-09-03T19:00:00-07:00",
+      "summary": "<p>Sinny's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Sinny",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Chinese Patrol Event",
+      "start_date": "2026-09-04T05:30:00-07:00",
+      "end_date": "2026-09-04T07:30:00-07:00",
+      "summary": "<p>Black Eight's bi-weekly patrol event<br>Majority of members participating will be Chinese, no restrictions on attending</p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Black Eight 黑八",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-04T12:00:00-07:00",
+      "end_date": "2026-09-04T14:00:00-07:00",
+      "summary": "<p><strong>EmberPhoenixVT's  Bi-Weekly Patrol Event.</strong></p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "EmberPhoenixVT",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-04T17:00:00-07:00",
+      "end_date": "2026-09-04T19:00:00-07:00",
+      "summary": "<p>A SorB's Bi-Weekly On-Duty-Patrol event.</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "SorB",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Korean Patrol Event",
+      "start_date": "2026-09-05T05:00:00-07:00",
+      "end_date": "2026-09-05T07:00:00-07:00",
+      "summary": "<p>Freemans bi-weekly patrol event<br>Majority of members participating will be Korean, no restrictions on attending</p>",
+      "categories": [
+        "On Duty Events",
+        "Regional Events"
+      ],
+      "host": "Freeman",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Open Roleplay Night",
+      "start_date": "2026-09-05T12:00:00-07:00",
+      "end_date": "2026-09-05T14:00:00-07:00",
+      "summary": "<p>Open Roleplay Night is an opportunity to roleplay the way you want to! There are no avatar restrictions, and we will be going to a world of our choosing to have fun and explore while also roleplaying with both the LPD and VRChat community as a whole!</p>",
+      "categories": [
+        "Special Events"
+      ],
+      "host": "Kate & Cappy",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Game Night",
+      "start_date": "2026-09-05T18:00:00-07:00",
+      "end_date": "2026-09-05T20:00:00-07:00",
+      "summary": "<p>Welcome to the LPD Game Nightǃ Every two weeks‚ we will be playing two games featured in VRChatǃ This event is a great opportunity to hangout with the LPD community‚ whether you are a current member or someone who is looking for a group of people to hangout withǃ We hope to see you all thereǃ</p>",
+      "categories": [
+        "Off Duty Events"
+      ],
+      "host": "Cappy",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-06T06:00:00-07:00",
+      "end_date": "2026-09-06T08:00:00-07:00",
+      "summary": "<p>Logans bi-weekly patrol event</p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "LoganVRC",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "LPD Round Table",
+      "start_date": "2026-09-06T12:00:00-07:00",
+      "end_date": "2026-09-06T13:00:00-07:00",
+      "summary": "<p>Open to all LPD members to come in and ask Staff and Team leads your burning questions about the happening in the LPD and its Teams</p>",
+      "categories": [
+        "Round Table"
+      ],
+      "host": "LPD Staff",
+      "timezone": "Europe/Lisbon"
+    },
+    {
+      "name": "Patrol Event",
+      "start_date": "2026-09-06T19:00:00-07:00",
+      "end_date": "2026-09-06T21:00:00-07:00",
+      "summary": "<p>Kaptize's Bi-Weekly On-Duty-Patrol event. </p>",
+      "categories": [
+        "On Duty Events"
+      ],
+      "host": "Kaptize",
       "timezone": "Europe/Lisbon"
     }
   ]
